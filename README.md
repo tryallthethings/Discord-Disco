@@ -2,6 +2,8 @@
 ## TL;DR
 This tool sets the Discord priority from low to high and sometimes farts.
 
+<img src="screenshot.png">
+
 ## Long version
 This little tool started out as a quick and fun solution for a common issue a friend had with Discord. 
 Every time you minimize Discord it sets its own CPU priority to low and your voice chat would start lagging when you're playing a game or anything else would use a lot of CPU resources.
