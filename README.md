@@ -2,7 +2,7 @@
 ## TL;DR
 This tool sets the Discord priority from low to high and sometimes farts.
 
-<img src="screenshot.png">
+<kbd><img src="screenshot.png"></kbd>
 
 ## Long version
 This little tool started out as a quick and fun solution for a common issue a friend had with Discord. 
