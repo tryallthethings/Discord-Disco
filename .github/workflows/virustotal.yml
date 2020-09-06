@@ -16,4 +16,4 @@ jobs:
           github_token: ${{ github.token }}
           update_release_body: true
           files: |
-              ./*.exe
+              *.exe
