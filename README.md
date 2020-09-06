@@ -10,7 +10,7 @@ Every time you minimize Discord it sets its own CPU priority to low and your voi
 Discord-Disco will, once started, scan the various Discord processes every 5 seconds for any one that has a CPU priority set of _low_. The counter will increase by one every time Discord priority was changed.
 The executable is rather larger due to the embedded sound file and MetroFramework libraries.
 
-If you're curious (or paranoid - which is totally fine with executables requiring administrative permissions), [here's the VirusTotal scan of the executable](https://www.virustotal.com/gui/file/211a1aa70b06c696d52d890e9771bfbff40cc49b4b952fcf5f5d8d76a15a9ac2/detection)
+If you're curious (or paranoid - which is totally fine with executables requiring administrative permissions) you can check the VirusTotal file scan on the release page.
 
 # Usage
 Download the .exe from the [releases](https://github.com/tryallthethings/Discord-Disco/releases) to any place you like and start. If your PC has UAC enabled (which any Windows PC has by default) you'll see one or several warnings (depending on your Windows version) which you need to accept. Discord-Disco requires to be run with administrative permissions to be able to set the CPU priority of other processes.
