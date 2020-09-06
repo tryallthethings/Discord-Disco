@@ -1,4 +1,4 @@
-# Discord-Disco
+# Discord-Disco [![Build Status](https://travis-ci.org/tryallthethings/Discord-Disco.svg?branch=master)](https://travis-ci.org/tryallthethings/Discord-Disco) ![Downloads](https://img.shields.io/github/downloads/tryallthethings/Discord-Disco/total.svg?style=flat) [![Latest Release](https://img.shields.io/github/v/release/tryallthethings/Discord-Disco.svg?logo=github)](https://github.com/tryallthethings/Discord-Disco/releases)
 ## TL;DR
 This tool sets the Discord priority from low to high and sometimes farts.
 
